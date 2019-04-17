@@ -32,3 +32,6 @@
     # system ignore
     .DS_Store
     Thumbs.db
+    #配置文件
+    datasource.properties
+    mmall.properties

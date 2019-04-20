@@ -61,7 +61,7 @@ public class UserServiceImpl implements IUserService {
         return  ServerResponse.creatBySuccessMessage("注册成功");
     }
     public ServerResponse<String> checkVaild (String str,String type ){
-         if(org.apache.commons.lang3.StringUtils.isBlank(type)){
+         if(org.apache.commons.lang3.StringUtils.isNotBlank(type)){
              //开始校验
              if(Const.USERNAME.equals(type)) {
                  int resultCount = userMapper.checkUsername(str);

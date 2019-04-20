@@ -1,7 +1,0 @@
-[33mb6ab8fe[m[33m ([m[1;36mHEAD -> [m[1;32mv1.0[m[33m)[m HEAD@{0}: pull origin v1.0: Merge made by the 'recursive' strategy.
-[33m8b79112[m HEAD@{1}: commit: add user model
-[33m80b15ab[m HEAD@{2}: commit: add user model'
-[33m01bf9d6[m HEAD@{3}: commit: add login model
-[33m7186287[m HEAD@{4}: commit: add sql
-[33md621453[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{5}: checkout: moving from master to v1.0
-[33md621453[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{6}: commit (initial): ‘'项目初始化，以及第一次提交'
